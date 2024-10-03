@@ -5,8 +5,8 @@
 # Last Modified: 05 Sep 2024 by Tyler Weiglein
 
 # Purpose: To perform the analyses mentioned in this letter 
-# (#Insert Google Drive link) to the U.S.
-# Environmental Protection Agency (EPA) regarding the Texas Railroad
+# (https://drive.google.com/file/d/1eecdiYKP56aN8QXEaeGe97HafjIJuCae/view?usp=sharing) 
+# to the U.S. Environmental Protection Agency (EPA) regarding the Texas Railroad
 # Commission (RRC) Class II Underground Injection Control (UIC) program.
 
 
